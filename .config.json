@@ -1,11 +1,10 @@
 {
-    "id": "14sdhasdasdawdawsd",
     "version": "1.6",
     "logger": {
         "path": "system.log",
         "level": "INFO" 
     },
     "remote": {
-        "baseURL": "https://danal.me/api/"
+        "baseURL": "< HOST API URL >"
     }
 }
